@@ -1,2 +1,5 @@
 my first git file
+
 file name is test4 and test conflict master
+
+file name is test4 and test conflict dev
