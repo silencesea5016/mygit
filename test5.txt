@@ -3,3 +3,5 @@ my first git file
 file name is test5 and test conflict master
 
 file name is test5 and test conflict dev
+
+file name is test5 and test conflict origin
