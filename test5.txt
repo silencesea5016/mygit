@@ -8,3 +8,4 @@ file name is test5 and test master
 
 file name is test5 and test conflict origin
 
+file merge --no--ff
